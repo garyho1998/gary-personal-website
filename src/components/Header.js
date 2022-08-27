@@ -35,8 +35,8 @@ class Header extends Component {
     }, (props, prevProp) => true);
 
     return (
-      <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
-        <div className="row aligner" style={{height: '100%'}}>
+      <header id="home" style={{ height: '50%', display: 'block', paddingBottom: 50}}>
+        <div className="row aligner" style={{height: '50%'}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>

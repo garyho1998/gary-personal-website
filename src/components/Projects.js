@@ -26,7 +26,8 @@ class Projects extends Component {
             style={{ cursor: "pointer" }}
           >
             <span className="portfolio-item d-block">
-              <div className="foto" onClick={() => detailsModalShow(projects)}>
+            <a href={projects.url}>
+              <div className="foto" >
                 <div>
                   <img
                     src={projects.images[0]}
@@ -41,8 +42,10 @@ class Projects extends Component {
                   </p>
                 </div>
               </div>
+              </a>
             </span>
           </div>
+          
         );
       });
     }

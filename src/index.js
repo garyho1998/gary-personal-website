@@ -1,4 +1,4 @@
-import React, { Component }  from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
 import App from './App';
@@ -20,7 +20,7 @@ window.$primaryLanguageIconId = 'primary-lang-icon';
 window.$secondaryLanguageIconId = 'secondary-lang-icon';
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
         <Route path="/" element={<App />} />
         <Route path="invoices" element={<Invoices />} />

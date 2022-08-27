@@ -57,9 +57,9 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <div className="main">
         <Header sharedData={this.state.sharedData.basic_info} />
-        <Link to="/invoices">Invoicedddddds</Link> |{" "}
+        {/* <Link to="/invoices">Invoicedddddds</Link> |{" "} */}
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/garyho1998/gary-personal-website/static/css/main.db76a3b0.chunk.css",
+    "main.js": "/garyho1998/gary-personal-website/static/js/main.246dbd11.chunk.js",
+    "main.js.map": "/garyho1998/gary-personal-website/static/js/main.246dbd11.chunk.js.map",
+    "runtime-main.js": "/garyho1998/gary-personal-website/static/js/runtime-main.6723e4cd.js",
+    "runtime-main.js.map": "/garyho1998/gary-personal-website/static/js/runtime-main.6723e4cd.js.map",
+    "static/css/2.d64471e2.chunk.css": "/garyho1998/gary-personal-website/static/css/2.d64471e2.chunk.css",
+    "static/js/2.504f4c72.chunk.js": "/garyho1998/gary-personal-website/static/js/2.504f4c72.chunk.js",
+    "static/js/2.504f4c72.chunk.js.map": "/garyho1998/gary-personal-website/static/js/2.504f4c72.chunk.js.map",
+    "index.html": "/garyho1998/gary-personal-website/index.html",
+    "precache-manifest.1bc8c353a0a3c272c9925b239a862c3b.js": "/garyho1998/gary-personal-website/precache-manifest.1bc8c353a0a3c272c9925b239a862c3b.js",
+    "service-worker.js": "/garyho1998/gary-personal-website/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/garyho1998/gary-personal-website/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db76a3b0.chunk.css.map": "/garyho1998/gary-personal-website/static/css/main.db76a3b0.chunk.css.map",
+    "static/js/2.504f4c72.chunk.js.LICENSE.txt": "/garyho1998/gary-personal-website/static/js/2.504f4c72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6723e4cd.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.504f4c72.chunk.js",
+    "static/css/main.db76a3b0.chunk.css",
+    "static/js/main.246dbd11.chunk.js"
+  ]
+}

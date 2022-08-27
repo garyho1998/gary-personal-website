@@ -33,11 +33,11 @@ class Experience extends Component {
             className="vertical-timeline-element--work"
             date={work.years}
             iconStyle={{
-              background: "#AE944F",
+              background: "#FFFFFF",
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<img className="company_icon" src={work.img}/>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

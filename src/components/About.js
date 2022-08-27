@@ -31,21 +31,14 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  {/* <FontAwesomeIcon icon="fa-solid fa-boxing-glove" 
-                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
-                  <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  <div class="icon_container">
+                    <img src="https://img.icons8.com/external-mixed-kendis-lasman/64/000000/external-gym-love-family-mixed-mixed-kendis-lasman-2.png"/>
+                    <img src="https://img.icons8.com/external-filled-outline-icons-maxicons/85/000000/external-boxing-fitness-filled-outline-filled-outline-icons-maxicons.png"/>
+                    <img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/000000/external-baseball-sports-and-games-icongeek26-flat-icongeek26.png"/>
+                    <img src="https://img.icons8.com/external-microdots-premium-microdot-graphic/64/000000/external-photograph-lifestyle-entertainment-vol1-microdots-premium-microdot-graphic.png"/>
+                  </div>
+
+
                 </span>
               </div>
             </div>

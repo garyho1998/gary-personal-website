@@ -38,7 +38,6 @@
       "images": [
         "images/portfolio/fyp/business-matching.jpg"
       ],
-      "url": "old_html/baseball_AI.html",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
@@ -99,98 +98,69 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "icon": "fab fa-angular experience-icon",
+      "company": "IBM",
+      "title": "Technical Consultant",
+      "years": "07/2021 to Present",
+      "img": "/images/company/ibm.png",
       "mainTech": [
-        "Angular 8/9/10"
+        "Java, Data"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Java Spring Boot",
+        "Kafka",
+        "AWS",
+        "Google Cloud",
+        "Airflow",
+        "Restful API",
+        "GraphQL"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "3BeeBox Limited",
+      "title": "Cloud Hybrid Apps Developer",
+      "years": "09/2020 to 02/2021",
       "mainTech": [
-        "Angular 7/8"
+        "React Naive, FireBase"
       ],
+      "img": "/images/company/3bee.png",
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Instance Message Apps",
+        "Firebase",
+        "React Native",
+        "Android"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Digital Transaction Limited",
+      "title": "Trading Backend Software Engineer",
+      "years": "05/2020 to 08/2020",
       "mainTech": [
-        "Angular 7/8"
+        "GoLang, Blockchain"
       ],
+      "img": "/images/company/digital.png",
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "GoLang",
+        "Blockchain",
+        "C#",
+        "Git",
+        "bash script",
+        "tokenization"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Hong Kong Monetary Authority",
+      "title": "Analyst Programmer Placement",
+      "years": "- 09/2018 to 02/2019",
       "mainTech": [
-        "Angular 7/8"
+        "Java"
       ],
+      "img": "/images/company/hkma.png",
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": [
-        "Angular 7/8"
-      ],
-      "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "security",
+        "IOS",
+        "AirWatch",
+        "Java",
+        "IBM lotus script"
       ]
     }
   ]

@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Business Matching AI",
+      "title": "Business Matching AI (BERT)",
       "startDate": "2021",
       "images": [
         "images/portfolio/fyp/business-matching.jpg"
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "title": "Baseball Prediction AI",
+      "title": "Baseball Prediction AI (TensorFlow)",
       "startDate": "2019",
       "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
       "images": [
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "title": "Factory Reset Hack",
+      "title": "Factory Reset Hack (Android)",
       "startDate": "2017",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
@@ -102,6 +102,7 @@
       "company": "DefOpenSource",
       "title": "Front-End Developer",
       "years": "10.2019 - present",
+      "icon": "fab fa-angular experience-icon",
       "mainTech": [
         "Angular 8/9/10"
       ],
@@ -115,6 +116,66 @@
         ".NET Core",
         "SignalR",
         "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
       ]
     },
     {

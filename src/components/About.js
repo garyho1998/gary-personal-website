@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
+//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 class About extends Component {
   render() {
@@ -30,6 +31,9 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
+                  {/* <FontAwesomeIcon icon="fa-solid fa-boxing-glove" 
+                  style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  /> */}
                   <Icon
                     icon={angularIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}

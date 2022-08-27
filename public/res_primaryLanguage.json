@@ -101,7 +101,7 @@
       "company": "IBM",
       "title": "Technical Consultant",
       "years": "07/2021 to Present",
-      "img": "/images/company/ibm.png",
+      "img": "images/company/ibm.png",
       "mainTech": [
         "Java, Data"
       ],
@@ -122,7 +122,7 @@
       "mainTech": [
         "React Naive, FireBase"
       ],
-      "img": "/images/company/3bee.png",
+      "img": "images/company/3bee.png",
       "technologies": [
         "Instance Message Apps",
         "Firebase",
@@ -137,7 +137,7 @@
       "mainTech": [
         "GoLang, Blockchain"
       ],
-      "img": "/images/company/digital.png",
+      "img": "images/company/digital.png",
       "technologies": [
         "GoLang",
         "Blockchain",
@@ -154,7 +154,7 @@
       "mainTech": [
         "Java"
       ],
-      "img": "/images/company/hkma.png",
+      "img": "images/company/hkma.png",
       "technologies": [
         "security",
         "IOS",

@@ -1,10 +1,15 @@
-import React from 'react';
+import React, { Component }  from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter } from "react-router-dom";
+import Invoices from "./routes/invoices";
+import {
+    BrowserRouter,
+    Routes,
+    Route,
+  } from "react-router-dom";
 
 
 /* GLOBAL VARIABLES */
@@ -16,7 +21,10 @@ window.$secondaryLanguageIconId = 'secondary-lang-icon';
 
 ReactDOM.render(
     <BrowserRouter>
-        <App />
+        <Routes>
+        <Route path="/" element={<App />} />
+        <Route path="invoices" element={<Invoices />} />
+        </Routes>
     </BrowserRouter>
     ,document.getElementById('root'));
 
